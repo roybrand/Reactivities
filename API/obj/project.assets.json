@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net7.0.4": {
       "Application/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v7.0.4",
         "dependencies": {
           "Domain": "1.0.0",
           "Persistence": "1.0.0"
@@ -18,7 +18,7 @@
       },
       "Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v7.0.4",
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -28,7 +28,7 @@
       },
       "Persistence/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
+        "framework": ".NETCoreApp,Version=v7.0.4",
         "dependencies": {
           "Domain": "1.0.0"
         },
@@ -59,7 +59,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net7.0.4": [
       "Application >= 1.0.0"
     ]
   },
@@ -80,15 +80,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net7.0.4"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
         "https://tfsclalit.clalit.org.il/tfs/devDept/_packaging/Clalit.Prod/nuget/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net7.0.4": {
+          "targetAlias": "net7.0.4",
           "projectReferences": {
             "C:\\Users\\RoyBr\\source\\repos\\Demo\\Reactivities\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\RoyBr\\source\\repos\\Demo\\Reactivities\\Application\\Application.csproj"
@@ -103,19 +103,20 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net7.0.4": {
+        "targetAlias": "net7.0.4",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
