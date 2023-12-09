@@ -9,3 +9,15 @@ C:\Users\RoyBr\source\repos\Demo\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
 C:\Users\RoyBr\source\repos\Demo\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
 C:\Users\RoyBr\source\repos\Demo\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
 C:\Users\RoyBr\source\repos\Demo\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\User\source\repos\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\User\source\repos\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\User\source\repos\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.sourcelink.json
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\User\source\repos\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
