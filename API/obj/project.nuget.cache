@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dn5OdKySt0FEZVx75kuTVAvEreQkT3MFJ5Ui3prM1lHX3rTjhrUo31PBhv0txKLKsQKbYuiQZsN7prgVYHHUDg==",
+  "dgSpecHash": "YFxhOYzT74ME87j6YqiZLsx135SUArKIKbB+FUG5eacVUXnAAkn7swdQFaR1ifgoFpsyeOvBPr7jPLK5VGz4Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
